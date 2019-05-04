@@ -3,6 +3,7 @@ This is a personal project for monitoring my first daughter (who will/was born i
 1. noise (cry); 
 2. vital signs (heart rate and oxigenation level) while sleeping;
 3. weight;
+  - Sparkfun HX711 datasheet: https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
 4. environment;
 
 0. MagicMirror
