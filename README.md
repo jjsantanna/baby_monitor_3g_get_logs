@@ -18,5 +18,8 @@ This is a personal project for monitoring my first daughter (who will/was born i
   - https://github.com/tescalada/python-owlet 
   - https://github.com/arosequist/node-owlet
 
+3. Connecting multiple I2C sensors
+ - https://www.instructables.com/id/Raspberry-PI-Multiple-I2c-Devices/
+ 
 
 
