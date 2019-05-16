@@ -18,12 +18,10 @@ This is a personal project for monitoring my first daughter (who will/was born i
   - https://github.com/tescalada/python-owlet 
   - https://github.com/arosequist/node-owlet
 
-3. Connecting multiple I2C sensors
- - I connected both sensors in the same pins (12C)
- - https://www.instructables.com/id/Raspberry-PI-Multiple-I2c-Devices/
- - https://docs.pycom.io/firmwareapi/pycom/machine/i2c.html
- 
- 
- 
+1. [TEMPERATURE + HUMIDITY] Adafruit Si7021
+Note: The first idea was to connect both sensors, temperature and light level, in different GPIO pins. However both sensors work on I2C. There were some links to help with that, ex.(link1)[ https://www.instructables.com/id/Raspberry-PI-Multiple-I2c-Devices/] and (link2)[https://docs.pycom.io/firmwareapi/pycom/machine/i2c.html]; HOWEVER at the end I decided to connect both sensors in the same 2 I2C pins.
 
+2. [LIGHT LEVEL] Adafruit TSL2591
+4. [SCALE] HX711 load cell amplifier
+ - https://github.com/learn2develop/hx711py
 
