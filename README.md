@@ -24,4 +24,8 @@ Note: we also bought Sparkfun HX711 however it didn't work.
 
 6. [SMART MIRROR] MagicMirror
 - https://github.com/MichMich/MagicMirror
+  - For the weather
+    - https://github.com/jclarke0000/MMM-DarkSkyForecast
+
+
   
