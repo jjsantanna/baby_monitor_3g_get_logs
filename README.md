@@ -32,5 +32,10 @@ Note: we also bought Sparkfun HX711 however it didn't work.
 - https://motion-project.github.io
 - https://github.com/iizukanao/picam and https://kamranicus.com/guides/raspberry-pi-3-baby-monitor
 
+## Other modifications
+- in /etc/rc.local
+    - sudo echo 0 >/sys/class/leds/led1/brightness
+    - sudo echo 0 >/sys/class/leds/led0/brightness
+    - sudo motion
 
   
