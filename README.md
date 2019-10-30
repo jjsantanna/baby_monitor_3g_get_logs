@@ -30,5 +30,7 @@ Note: we also bought Sparkfun HX711 however it didn't work.
 7. [NIGHT VISION CAMERA] 
 - https://elinux.org/RPi-Cam-Web-Interface
 - https://motion-project.github.io
+- https://github.com/iizukanao/picam and https://kamranicus.com/guides/raspberry-pi-3-baby-monitor
+
 
   
