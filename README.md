@@ -27,5 +27,8 @@ Note: we also bought Sparkfun HX711 however it didn't work.
   - For the weather
     - https://github.com/jclarke0000/MMM-DarkSkyForecast
 
+7. [NIGHT VISION CAMERA] 
+- https://elinux.org/RPi-Cam-Web-Interface
+- https://motion-project.github.io
 
   
